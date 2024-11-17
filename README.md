@@ -1,3 +1,3 @@
-## DRBQonSphere is the code library for paper: Distributed Regularized Bayesian-type Quadrature on the Spheres and its Application in Image Rendering
-### Authors Jinxin Wang, Xiaotong Liu, Di Wang, Shao-Bo Lin are with the Center for Intelligent Decision-Making and Machine Learning, School of Management, Xi’an Jiaotong University, Xi’an 710049, China.
-### 
+## Distributed Regularized Bayesian-type Quadrature on the Spheres and its Application in Image Rendering
+This package contains code for the reproducibility of the experiments of our article "Distributed Regularized Bayesian-type Quadrature on the Spheres and its Application in Image Rendering", to be submitted to SIAM Journal on Imaging Sciences (SIIMS).
+
